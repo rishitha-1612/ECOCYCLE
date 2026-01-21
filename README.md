@@ -3,7 +3,7 @@
 EcoCycle is a high-performance, full-stack waste management ecosystem designed to bridge the gap between urban households, field logistics agents (Riders), and administrative oversight. The platform leverages geo-spatial tracking, real-time data visualization, and a secure reward system to industrialize the recycling process.
 
 ## Live Demo
-[(Click Here)](https://ecocycle-nine.vercel.app)
+[Click Here](https://ecocycle-nine.vercel.app)
 
 ---
 ## Local Development Setup
